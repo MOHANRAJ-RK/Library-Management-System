@@ -1,7 +1,7 @@
 # Library-Management-System
 Abstract:
 
-The Library Management System (LMS) in Java and MySQL is a comprehensive solution designed to automate and streamline the management of library resources in an efficient and user-friendly manner. This system serves as a digital repository for library administrators, librarians, and patrons, offering features that enhance the overall library experience.
+The Library Management System (LMS) in Java and MySQL is a comprehensive solution designed to automate and streamline the management of library resources in an efficient and user-friendly manner. This system serves as a digital repository for librarians, and users offering features that enhance the overall library experience.
 
 Key Features:
 User Management:
